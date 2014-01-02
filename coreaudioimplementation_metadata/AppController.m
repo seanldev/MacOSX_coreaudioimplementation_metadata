@@ -20,7 +20,7 @@
 
 -(IBAction)Sequence:(id)sender{
     
-    //Sean: Your audio files will be installed differently. You can enter their path here:
+    //Your audio files will be installed differently. You can enter their path here:
     
     NSString *newconstant = @"/Users/sean/Documents/xcodeprojects/macos_applications/coreaudioimplementation_metadata/coreaudioimplementation_metadata/k425.wav";
     
@@ -40,7 +40,7 @@
 
 -(IBAction)Sequence2:(id)sender{
     
-    //Sean: Your audio files will be installed differently. You can enter their path here:
+    //Your audio files will be installed differently. You can enter their path here:
     
     NSString *newconstant = @"/Users/sean/Documents/xcodeprojects/macos_applications/coreaudioimplementation_metadata/coreaudioimplementation_metadata/k550.wav";
     
@@ -61,7 +61,7 @@
 }
 -(IBAction)Sequence3:(id)sender{
     
-    //Sean: Your audio files will be installed differently. You can enter their path here:
+    //Your audio files will be installed differently. You can enter their path here:
     
     NSString *newconstant = @"/Users/sean/Documents/xcodeprojects/macos_applications/coreaudioimplementation_metadata/coreaudioimplementation_metadata/k552.wav";
     
